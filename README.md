@@ -8,7 +8,6 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/phamquiluan/ResidualMaskingNetwork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
@@ -268,6 +267,5 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 - Research paper: *Facial Expression Recognition using Residual Masking Network (ICPR 2020)*
 - Original Author: Sarvaghna Reddy ([sarvaghnakishore@gmail.com](mailto:sarvaghnakishore@gmail.com))
-- Hugging Face Model Repository: [phamquiluan/ResidualMaskingNetwork](https://huggingface.co/phamquiluan/ResidualMaskingNetwork)
 - OpenCV YuNet: [face_detection_yunet](https://github.com/opencv/opencv_zoo)
 
