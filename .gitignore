@@ -148,4 +148,5 @@ pretrained_ckpt
 .DS_Store
 Thumbs.db
 push_to_github.bat
+.github/
 
