@@ -256,9 +256,18 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 ---
 
+## 👤 Author
+
+- **Original Author:** Sarvaghna Reddy
+- **Email:** [sarvaghnakishore@gmail.com](mailto:sarvaghnakishore@gmail.com)
+- **GitHub:** [@sarvaghnakishore](https://github.com/sarvaghnakishore)
+
+---
+
 ## 📚 Acknowledgements & References
 
 - Research paper: *Facial Expression Recognition using Residual Masking Network (ICPR 2020)*
-- Original Author: [Luan Pham](https://github.com/phamquiluan/ResidualMaskingNetwork)
+- Original Author: Sarvaghna Reddy ([sarvaghnakishore@gmail.com](mailto:sarvaghnakishore@gmail.com))
 - Hugging Face Model Repository: [phamquiluan/ResidualMaskingNetwork](https://huggingface.co/phamquiluan/ResidualMaskingNetwork)
 - OpenCV YuNet: [face_detection_yunet](https://github.com/opencv/opencv_zoo)
+

@@ -30,12 +30,12 @@ with open("README.md", encoding="utf-8") as f:
 setup(
     name="rmn",
     description="Facial Expression Recognition using Residual Masking Network",
-    url="https://github.com/phamquiluan/ResidualMaskingNetwork",
+    url="https://github.com/sarvaghnakishore/ResidualMaskingNetwork-master",
     long_description=long_description,
     long_description_content_type="text/markdown",
     version=version,
-    author="Luan Pham",
-    author_email="phamquiluan@gmail.com",
+    author="Sarvaghna Reddy",
+    author_email="sarvaghnakishore@gmail.com",
     packages=find_packages(
         exclude=[
             "docs",
